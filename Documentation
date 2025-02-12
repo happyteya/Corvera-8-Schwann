@@ -1,0 +1,7 @@
+Rock, paper, scissors.
+The classic rock, paper, and scissors game.
+Where in  a player chooses between rock, paper, and scissors.
+This project is a simple implementation of the classic Rock, Paper, Scissors game in Python, allowing two players to play against a computer.
+The game follows the standard rules (Rock beats Scissors, Scissors beats Paper, Paper beats Rock) and features player vs. computermode, and random computer moves. 
+The project consists of a single Python file (`rock_paper_scissors.py`) with functions for getting player and computer moves, determining the winner, and running the game loop.
+To play, simply run `python rock_paper_scissors.py` and follow the in-game prompts.
